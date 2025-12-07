@@ -1,0 +1,28 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Inception1",
+      "year": 2010,
+      "genre": "Sci-Fi"
+    },
+    {
+      "id": "2",
+      "title": "Pulp Fiction",
+      "genre": "Crime",
+      "year": 1994
+    },
+    {
+      "id": "3",
+      "title": "Dune",
+      "genre": "Sci-Fi",
+      "year": 2021
+    },
+    {
+      "id": "eac9",
+      "title": "tangled",
+      "genre": "genre",
+      "year": 2021
+    }
+  ]
+}
